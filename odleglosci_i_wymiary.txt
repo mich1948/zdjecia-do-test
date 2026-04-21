@@ -1,0 +1,22 @@
+Odległości:
+66,5 cm - odległość między środkami markerów na osi X
+57,7 cm - odległość między środkami markerów na osi Y
+
+Pozycja kamery górna:
+108,5 cm - odległość od kamery do tablicy (w linii prostej)
+94 cm - odległośc od kamery do obiektu (w linii prostej)
+
+Pozycja dolna kamery:
+135 cm - odległość od kamery do tablicy (bezpośrednio w linii pod kątem)
+80 cm - odległośc od kamery do obiektu (bezpośrednio w linii pod kątem)
+
+Wymiary:
+Pierścień:
+Wysokość - 3,986 cm (może być delikatnie więcej ze względu na bardzo nierówną powierzchnię obiektu)
+Średnica - 7,491 cm
+
+
+Wał:
+Długość: 12,545 cm
+Średnica: 3,988 cm
+Dolny, obrobiony odcinek wału: 1,137 cm
